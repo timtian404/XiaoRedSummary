@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageButton
+        android:id="@+id/btnOverlay"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@android:drawable/ic_menu_camera"
+        android:background="@android:color/transparent"
+        android:contentDescription="Capture overlay"
+        android:scaleType="centerInside"
+        android:tint="@android:color/white"
+        android:elevation="6dp">
+
+        <requestFocus />
+    </ImageButton>
+
+</FrameLayout>

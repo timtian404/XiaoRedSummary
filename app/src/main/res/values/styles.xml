@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.XiaoRedSummary" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#FF4444</item>
+        <item name="colorPrimaryContainer">#FFE0E0</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">#FF6B6B</item>
+    </style>
+</resources>
